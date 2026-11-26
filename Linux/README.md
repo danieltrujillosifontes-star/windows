@@ -1,0 +1,1 @@
+Trabajo de Álvaro Navarro y Dani Trujillo sobre Sistemas Operativos. Vamos a colaborar para mostrar las diferencias ente Windows y Linux.
